@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "925184069101",
+    "firebase_url": "https://randomchat-b3d28.firebaseio.com",
+    "project_id": "randomchat-b3d28",
+    "storage_bucket": "randomchat-b3d28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925184069101:android:48d3971ed1ebeac09febe4",
+        "android_client_info": {
+          "package_name": "dev.abhishek.strangerchat.random_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925184069101-rcru3ieq3gsmeoe700ldb0pc2am7ipm9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.abhishek.strangerchat.random_chat",
+            "certificate_hash": "7ea4e608782b688a7272b75a2ced4596823c5ab8"
+          }
+        },
+        {
+          "client_id": "925184069101-j46iom86nis9bv5cgcfe9vimpljqocth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6qYRFUhIVnQTXq8j0TgukLlRj2XMDj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925184069101-j46iom86nis9bv5cgcfe9vimpljqocth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925184069101:android:9bebc960bcc4ef659febe4",
+        "android_client_info": {
+          "package_name": "dev.abhishek.yello_video_player"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925184069101-17ftinpbo0ebia9qk9v24rph9nvh1nss.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dev.abhishek.yello_video_player",
+            "certificate_hash": "7ea4e608782b688a7272b75a2ced4596823c5ab8"
+          }
+        },
+        {
+          "client_id": "925184069101-j46iom86nis9bv5cgcfe9vimpljqocth.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBv6qYRFUhIVnQTXq8j0TgukLlRj2XMDj0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925184069101-j46iom86nis9bv5cgcfe9vimpljqocth.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

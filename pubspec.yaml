@@ -1,0 +1,50 @@
+name: yello_video_player
+description: A new Flutter application.
+
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.0
+  firebase_auth: ^0.18.3
+  firebase_core: ^0.5.2
+  cloud_firestore: ^0.14.3
+  lottie: ^0.7.0+1
+  flutter_hooks: ^0.14.1
+  shared_preferences: ^0.5.12+4
+  toast: ^0.1.5
+  flutter_svg:
+  google_sign_in: ^4.5.4
+  getflutter: ^1.0.11
+  chewie: ^0.9.10
+  camera: ^0.5.8+11
+  path_provider: ^1.6.24
+  path: ^1.7.0
+  esys_flutter_share: ^1.0.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  assets:
+    - assets/video/
+    - assets/lottie/
+    - assets/fonts/
+    - assets/icons/
+    - assets/images/
+
+  fonts:
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/roboto_regular.ttf
+  uses-material-design: true
+
